@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # VISION IRL
 =======
+=======
+>>>>>>> 648f8905b368c0dfda6a4e4ac8b3d074198c8b36
 # VISION-IRL-Copy
 
 ````markdown
@@ -209,4 +212,7 @@ Let me know if you'd like to include:
 - A badge-style intro for GitHub, or
 - A minimal version for submission to judges.
 ```
+<<<<<<< HEAD
+>>>>>>> 648f8905b368c0dfda6a4e4ac8b3d074198c8b36
+=======
 >>>>>>> 648f8905b368c0dfda6a4e4ac8b3d074198c8b36
