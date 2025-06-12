@@ -1,0 +1,27 @@
+<MainLayout>:
+    orientation: "vertical"
+    padding: 10
+    spacing: 10
+
+    BoxLayout:
+        size_hint_y: None
+        height: "40dp"
+        spacing: 10
+        Button:
+            text: "Voice Auth"
+            on_release: root.on_voice_auth()
+        Button:
+            text: "Face Auth"
+            on_release: root.on_face_auth()
+        Button:
+            text: "Start Vision"
+            on_release: root.on_start_vision()
+        Button:
+            text: "Stop Vision"
+            on_release: root.on_stop_vision()
+
+    TextInput:
+        text: root.log_text
+        readonly: True
+        size_hint_y: 0.8
+        font_size: "16sp"
